@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
-</div>
+</div> <br>
 
 
 
