@@ -6,14 +6,14 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi! I'm coldegg </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
     <li>I studied data analysis and I'm currently learning developing.</li></div>
-    <li>I want to be a CREATIVE developer.</li></div></div><div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  <br> 
+    <li>I want to be a CREATIVE developer.</li>
     
 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💾 Tech Stacks </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+    
 
-
-💾 Tech Stacks </h2> <br> 
-    <div style="text-align: left;"> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
 
