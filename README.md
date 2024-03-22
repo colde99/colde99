@@ -5,7 +5,9 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi! I'm coldegg </h2>  
     <li>I studied data analysis and I'm currently learning developing.</li></div>
-    <li>I want to be a CREATIVE developer.</li>
+    <li>I want to be a CREATIVE developer.</li> </div>
+
+
     
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💾 Tech Stacks </h2>  
