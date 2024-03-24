@@ -8,9 +8,9 @@
 
 
 ## 📌 Experience
-| Programming/DA | Content Planning | Other Experiences |
+| Programming/DA | Certificates | Other Experiences |
 |------|------|------|
-| <details><summary> <b>머신러닝 프로젝트</b></summary><동대문구 불법주정차 킥보드 위치 및 최적 수거 루트를 제안하는 예측 모형></details> | <details><summary>토글 2</summary>토글 내용 2</details> | <details><summary>토글 3</summary>토글 내용 3</details> |
+| <br><details><summary> <b>머신러닝 프로젝트</b></summary><br>- <동대문구 전동킥보드 불법주차 및 최적 수거 루트를 제안하는 예측 모형> 교내 프로젝트</details> <details><summary><b>업무 코드개발</b> </summary><br>- 중소벤처기업진흥공단 업무 협업을 위한 GoogleAppsScript 임시 홈페이지 개발 <br><br> - 엑셀 업무 자동화 Python 코드 개발 <br><br> - PK, NULL, 데이터 정합성, 컬럼정의서 등 데이터 검수를 위한 Python 코드 개발</details> <details><summary><b>데이터 분석 프로젝트</b> </summary><br>- 문화포털 국민체력분석 인포그래픽 <br><br> - <문정부 4년반 동안의 한류동향분석> 보고자료 제작 </details><br>| 정보처리기사, SQLD, ADSP | <details><summary><b>Python, R 튜터링</b></summary><br>- 엘리스 <삼성전자 신입사원 DX교육> Python 튜터 활동</details> <details><summary><b>SK SUNNY 봉사단</b> </summary><br>-무인 키오스크 보편화에 따른 휠체어 장애인을 위한 '터치봉' 제작 프로젝트</details>  <details><summary><b>한국장학재단 청소년 멘토링</b> </summary></details> <details><summary><b>어학원 보조강사</b> </summary></details>|
     
 
 
