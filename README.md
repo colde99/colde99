@@ -17,7 +17,7 @@
 ## 🔎 Portfolio
 ### 1. 업무 코드 개발
 - [GoogleAppsScript를 활용한 조회 웹페이지 개발](https://script.google.com/macros/s/AKfycbz7Xcv-rLw_Gi9D1HMhyldXFnDImmQOBQ9oG-Uz5xc/dev)
-- [헬프센터 튜터 정산기](https://zip.obtuse.kr/G4gAAIzCce83nR4R2tDSubX0fIY4IeK1ZEsQNuCM4uZ9oHVyemoBHohrScsSCSjyjHMbwyH4tVPUzPqeSor+iVQ8ljVubpz8+2QHtdAyDGSkhN33oPN4m4optGFC4pqJjLrvAg==)
+- [헬프센터 튜터 정산기](https://drive.google.com/file/d/1AU4S21bdVi2N7qMY5WfBUDtw541aBgmF/view?usp=drive_link)
 
 <details><summary><b>헬프센터 튜터 정산 </b> </summary><br> <img src="https://github.com/colde99/colde99/assets/164446778/eb92c2c8-7ec3-4d29-8aef-85fa353362e7" width="800"></details>
 
