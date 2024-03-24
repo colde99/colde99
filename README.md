@@ -4,10 +4,11 @@
 # Hi, I'm coldegg🥚
 - I want to be an ***ATTRACTIVE*** developer.
 - I studied data analysis and I'm currently learning **developing**.
-<br></br>
+
+
 ## 🧩 Soft Skills
 `# Communication` `# Flexibility` `# Responsibility`
-<br></br>
+
 
 
 ## 📌 Experience
@@ -21,7 +22,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/googleappsscript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<br></br>
+
+
 
 ## 🔎 Contact
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/cold_egg)](https://blog.naver.com/cold_egg) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/cold_e99/)](https://www.instagram.com/cold_e99/) 
