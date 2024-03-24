@@ -11,14 +11,14 @@
 <br>
 
 ## 📌 Experience
-<br>
+
 
 | Experience | Others | 
 |------|---|
 | 문화정보원 빅데이터팀 인턴 (2021.08-12) | SK SUNNY 봉사단: 무인 키오스크 보편화에 따른 휠체어 장애인을 위한 '터치봉' 제작 | 
 | 엘리스 테크옵스팀 인턴 (2022.07-08) | 한국장학재단 청소년 멘토링 |
 | 머신러닝 교내 프로젝트 (2023.03-06) | 어학원 보조강사 |
-<br>
+
 
 ## ⛏️ Tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
