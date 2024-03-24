@@ -3,6 +3,7 @@
 
 - I want to be an ***ATTRACTIVE*** developer.
 - I studied data analysis and I'm currently learning **developing**.
+- Certificates: 정보처리기사, SQLD, ADSP
 <br>
 
 ## 🧩 Soft Skills
