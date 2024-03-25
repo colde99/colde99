@@ -28,7 +28,7 @@
 
 - [PK, NULL, 정합성 등 데이터 검수를 위한 Python 코드 개발](https://github.com/colde99/colde99/blob/0022159a196ee96c480cce7a8f5d5f12e280bf1a/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%88%98%20%EC%BD%94%EB%93%9C.md) 
 
-- [글로벌창업사관학교 이수학점 조회 페이지 개발](https://script.google.com/macros/s/AKfycbyr8HFOIaGpNCcsjH7gJneWXTURuOPaR5XIfZJ6jXOOmqLWqldmrqI078X5_sW4KKps/exec)
+- [중소벤처기업진흥공단 글로벌창업사관학교 이수학점 조회 페이지 개발](https://script.google.com/macros/s/AKfycbyr8HFOIaGpNCcsjH7gJneWXTURuOPaR5XIfZJ6jXOOmqLWqldmrqI078X5_sW4KKps/exec)
 
 -  [헬프센터 튜터 정산기](https://github.com/colde99/colde99/blob/1334dd1b89dcaa00ad7add94d8e1c7eb58114cab/%ED%97%AC%ED%94%84%EC%84%BC%ED%84%B0_%ED%8A%9C%ED%84%B0_%EC%A0%95%EC%82%B0.md)
 
