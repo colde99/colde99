@@ -9,7 +9,7 @@
 ## 🧩 Skills
 - soft skills: `# Communication` `# Flexibility` `# Responsibility`
 - hard skills: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" height=20> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" height=20> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height=20> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" height=20>
-<img src="https://img.shields.io/badge/googleappsscript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" height=20> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/googleappsscript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" height=20> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=20> <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height=20>
 
 
 <br>
