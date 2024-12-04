@@ -8,9 +8,12 @@
 
 
 ## 🧩 Skills
-- soft skills: `# Communication` `# Flexibility` `# Responsibility`
-- hard skills: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" height=20> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" height=20> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height=20> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" height=20>
-<img src="https://img.shields.io/badge/googleappsscript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" height=20> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=20> <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height=20>
+- soft skills:
+`# Communication` `# Flexibility` `# Responsibility`
+- hard skills: <br>
+<img src="https://img.shields.io/badge/Java-E84D3D?style=for-the-badge&logo=Python&logoColor=white" height=20> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" height=20> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white" height=20> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" height=20> <img src="https://img.shields.io/badge/googleappsscript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" height=20>  -Programming (<b>IH</b> level) <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" height=20> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" height=20> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height=20> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" height=20> -Data Analysis (<b>IH</b> level) <br>
+<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height=20> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=css3&logoColor=white" height=20> -Design (<b>IL</b> level)
 
 
 <br>
@@ -47,9 +50,9 @@
 ## More
  [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/cold_egg)](https://blog.naver.com/cold_egg) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/cold_e99/)](https://www.instagram.com/cold_e99/) 
 
-- I like to experience new things. (bowling thesedays)
-- Also I have earned the following certifications ㅡ 정보처리기사, SQLD, ADSP, TOEIC Speaking AL
-- I'm trying to learn something new. It's hard but **I believe** I can do it.
+- It is my hobby to enjoy active sports & games. (climbing, bowling, shooting)
+- Also I have earned the following certifications ㅡ 정보처리기사, SQLD, ADSP, 중권투자권유대행인
+- I always try to learn something new. <b>Learning is the value of my life.</b>
 
 <br>
 
