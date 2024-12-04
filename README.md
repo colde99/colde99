@@ -1,8 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=FFFACD&height=100&section=header&text=Hi,%20I'm%20coldegg🥚&fontSize=20"/>
 
-- I want to be an ***ATTRACTIVE*** developer.
-- I studied data analysis and I'm currently learning **developing**.
+- I want to be an ***ATTRACTIVE developer***.
+- I studied data analysis and I'm currently learning developing.
 
 <br>
 
