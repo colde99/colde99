@@ -49,7 +49,7 @@
 ## More
  [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/cold_egg)](https://blog.naver.com/cold_egg) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/cold_e99/)](https://www.instagram.com/cold_e99/) 
 
-- It is my hobby to enjoy active sports & games. (climbing, bowling, shooting)
+- I am an introvert, but my hobby is to enjoy active sports&games. (<b>climbing, bowling, and shooting</b>)
 - Also I have earned the following certifications ㅡ 정보처리기사, SQLD, ADSP, 중권투자권유대행인
 - I always try to learn something new. <b>Learning is the value of my life.</b>
 
