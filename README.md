@@ -6,6 +6,7 @@
 
 <br>
 
+
 ## 🧩 Skills
 - soft skills: `# Communication` `# Flexibility` `# Responsibility`
 - hard skills: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" height=20> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" height=20> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height=20> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" height=20>
@@ -18,22 +19,28 @@
 
 | Experience | Other Activities | 
 |------|---|
-| <b>문화정보원 빅데이터팀 인턴 (2021.08-12)</b>  <br> [- 문정부 집권 정책보고를 위한 데이터 분석](https://mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=19287) <br> [- 문화빅데이터플랫폼 시각화데이터 생산](https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=4303c0f0-4a97-11ed-afda-c3455b72364b) | <b>SK SUNNY 봉사단</b> <br> - 휠체어 장애인을 위한 키오스크 '터치봉' 제작 | 
-| <b>엘리스 테크옵스팀 인턴 (2022.07-08)</b> <br> - 삼성전자 신입사원 DX교육 Python 튜터 | 한국장학재단 청소년 멘토 |
+| 신한투자증권 SW교육 프로디지털아카데미(2024.03-09) | Toeic Speaking AL |
 | 서울시립대학교 머신러닝 교내 프로젝트 (2023.03-06) | 어학원 보조강사 |
+| <b>엘리스 테크옵스팀 인턴 (2022.07-08)</b> <br> - 삼성전자 신입사원 DX교육 Python 튜터 | 한국장학재단 청소년 멘토 |
+| <b>문화정보원 빅데이터팀 인턴 (2021.08-12)</b>  <br> [- 문정부 집권 정책보고를 위한 데이터 분석](https://mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=19287) <br> [- 문화빅데이터플랫폼 시각화데이터 생산](https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=4303c0f0-4a97-11ed-afda-c3455b72364b) | <b>SK 대학생 봉사단 SUNNY</b> <br> - 휠체어 탑승자의 키오스크 이용 기구 '터치봉' 제작 | 
+
 
 <br>
 
 ## 💡Projects
 
-- [PK, NULL, 정합성 등 데이터 검수를 위한 Python 코드 개발](https://github.com/colde99/colde99/blob/0022159a196ee96c480cce7a8f5d5f12e280bf1a/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%88%98%20%EC%BD%94%EB%93%9C.md) 
+-  [주식 추천 서비스 '칫쏠(cheatSOL)' -신한투자증권 교육 SW프로젝트 우수작](https://github.com/CheatSOL)
 
-- [중소벤처기업진흥공단 글로벌창업사관학교 이수학점 조회 페이지 개발](https://script.google.com/macros/s/AKfycbyr8HFOIaGpNCcsjH7gJneWXTURuOPaR5XIfZJ6jXOOmqLWqldmrqI078X5_sW4KKps/exec)
+- [공공기관 데이터 검수를 위한 Python 코드 개발](https://github.com/colde99/colde99/blob/0022159a196ee96c480cce7a8f5d5f12e280bf1a/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%88%98%20%EC%BD%94%EB%93%9C.md) 
 
--  [헬프센터 튜터 정산기](https://github.com/colde99/colde99/blob/1334dd1b89dcaa00ad7add94d8e1c7eb58114cab/%ED%97%AC%ED%94%84%EC%84%BC%ED%84%B0_%ED%8A%9C%ED%84%B0_%EC%A0%95%EC%82%B0.md)
+-  [스타트업 엑셀 자동화를 위한 Python 코드 개발](https://github.com/colde99/colde99/blob/1334dd1b89dcaa00ad7add94d8e1c7eb58114cab/%ED%97%AC%ED%94%84%EC%84%BC%ED%84%B0_%ED%8A%9C%ED%84%B0_%EC%A0%95%EC%82%B0.md)
 
--  ['위드코로나 국민체력분석' 인포그래픽](https://github.com/colde99/colde99/assets/164446778/ff25f802-866b-432a-bf2c-89ebfd52964c)
 
+<br>
+
+## 🏫 Education
+부천여자고등학교 졸업 (자연계) <br>
+서울시립대학교 졸업 (영어영문학, 빅데이터분석학)
 
 <br>
 
@@ -46,9 +53,4 @@
 
 <br>
 
-```
-네 믿음은 네 생각이 된다. 네 생각은 네 말이 된다.
-네 말은 네 행동이 된다. 네 행동은 네 습관이 된다.
-네 습관은 네 가치가 된다. 네 가치는 네 운명이 된다.
-```
 
