@@ -1,9 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=FFFACD&height=100&section=header&text=Hi,%20I'm%20coldegg🥚&fontSize=20"/>
 
-- I want to be an ***ATTRACTIVE developer***.
-- I studied data analysis and I'm currently learning developing.
-
+- 가장 좋아하는 단어: ***Attractive*** 
+- 프로그래밍과 데이터분석을 공부했으며 매력적인 서비스를 만들고, 디테일을 개선하는 일에 관심이 많습니다. 
 <br>
 
 
