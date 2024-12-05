@@ -24,7 +24,7 @@
 | 신한투자증권 SW교육 프로디지털아카데미(2024.03-09) | Toeic Speaking AL |
 | 서울시립대학교 머신러닝 교내 프로젝트 (2023.03-06) | 어학원 보조강사 |
 | <b>엘리스 테크옵스팀 인턴 (2022.07-08)</b> <br> - 삼성전자 신입사원 DX교육 Python 튜터 | 한국장학재단 청소년 멘토 |
-| <b>문화정보원 빅데이터팀 인턴 (2021.08-12)</b>  <br> [- 해외문화홍보원의 '문정부 4년반 외신보도분석' K컬처 파트 지원](https://mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=19287) <br> [- 문화빅데이터플랫폼 시각화데이터 생산](https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=4303c0f0-4a97-11ed-afda-c3455b72364b) | <b>SK 대학생 봉사단 SUNNY</b> <br> - 휠체어 탑승자의 키오스크 이용 기구 '터치봉' 제작 | 
+| <b>문화정보원 빅데이터팀 인턴 (2021.08-12)</b>  <br> [- 문정부 집권 정책보고를 위한 외신기사 분석지원](https://mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=19287) <br> [- 문화빅데이터플랫폼 시각화데이터 생산](https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=4303c0f0-4a97-11ed-afda-c3455b72364b) | <b>SK 대학생 봉사단 SUNNY</b> <br> - 휠체어 탑승자의 키오스크 이용 기구 '터치봉' 제작 | 
 
 
 <br>
